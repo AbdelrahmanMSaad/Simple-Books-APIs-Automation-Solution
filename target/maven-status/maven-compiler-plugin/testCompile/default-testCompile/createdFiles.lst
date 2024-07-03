@@ -1,0 +1,5 @@
+runners\TestRunner.class
+steps\Steps.class
+steps\GetSingleBookApiSteps.class
+steps\GetStatusApiSteps.class
+steps\GetListOfBooksApiSteps.class

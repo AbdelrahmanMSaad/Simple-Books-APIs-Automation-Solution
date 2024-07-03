@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 01 02:39:45 EET 2024","Mon Jul 01 02:39:46 EET 2024","1085","","Get Status API","","Test Get Status , Validate Response Code and Response Body","","Test Get Status , Validate Response Code and Response Body",""
+"passed","Mon Jul 01 02:39:39 EET 2024","Mon Jul 01 02:39:41 EET 2024","2659","","Get list of books API","","Test get list of books API, validate the response code and the response body","","Test get list of books API, validate the response code and the response body",""
+"passed","Mon Jul 01 02:39:41 EET 2024","Mon Jul 01 02:39:45 EET 2024","3034","","Get single book API","","Test get a single book API which returns a book entity with more details","","Test get a single book API which returns a book entity with more details",""
+"passed","Mon Jul 01 02:39:45 EET 2024","Mon Jul 01 02:39:45 EET 2024","840","","Get single book API","","Test getting non existant book id","","Test getting non existant book id",""
